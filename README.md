@@ -10,8 +10,7 @@ Mobile Security : Mobile Penetration Testing, APK Analysis, Static Analysis, Dyn
 
 Reverse Engineering : APK Reverse Engineering.
 
-Programming Language : C/C++, Python, SQL (MariaDB/MySQL).
-
+Programming Language : C/C++, Python.
 ## Featured Project
 
 Mobile Application Penetration Testing
@@ -95,6 +94,15 @@ Analyzed lecturer functionality and chained the discovered weaknesses to gain Ad
 
 Full Write-Up: https://docs.google.com/document/d/1jXPrSI-boRDCgJsS07p5tF0F5tLj7wXfynPjGZlh2Ms/edit?tab=t.0
 
+## Programming & Data Structures
+
+Used Python with Biopython and Matplotlib to process, analyze, and visualize data.
+
+Implemented several data structures to organize and manage data efficiently.
+
 ## Contact
 LinkedIn: https://www.linkedin.com/in/rizky-darmawan-307780326
+
 Email : rizkydarmwn711@gmail.com
+
+
