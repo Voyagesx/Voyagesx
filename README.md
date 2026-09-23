@@ -5,8 +5,11 @@ Cyber Security student with hands-on experience in network and mobile penetratio
 ## Technical Skills
 
 Penetration Testing : Reconnaissance, Scanning, Enumeration, Vulnerability Assessment, Exploitation, Privilege Escalation, Post-Exploitation, Reporting.
+
 Mobile Security : Mobile Penetration Testing, APK Analysis, Static Analysis, Dynamic Analysis.
+
 Reverse Engineering : APK Reverse Engineering.
+
 Programming Language : C/C++, Python, SQL (MariaDB/MySQL).
 
 ## Featured Project
