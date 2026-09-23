@@ -33,6 +33,7 @@ Successfully modified Coins, Gems, and Paints, and bypassed in-game advertisemen
 
 Full Write-Up: https://docs.google.com/document/d/1yn1Targ-Dk6yQF37FIEjGdPVRtqAJp_OmJ8ShKHhyAw/edit?usp=sharing
 
+
 HackTheBox (HTB)
 
 • Expressway
