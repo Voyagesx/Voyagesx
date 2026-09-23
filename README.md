@@ -16,13 +16,15 @@ Programming Language : C/C++, Python, SQL (MariaDB/MySQL).
 
 Mobile Application Penetration Testing
 
+ • Hill Climb Racing version 1.67.0
+ 
 Performed static analysis on an Android APK using JADX GUI to identify security vulnerabilities in the application’s manifest, DEX bytecode, and resources.
 
 Performed APK reverse engineering using MT Manager to analyze client-side application logic.
 
 Validate vulnerabilities related to in-game data and advertisement mechanisms.
 
-• Hill Climb Racing version 1.67.0
+ Flow:
 
 Analyzed the APK using JADX GUI.
 
@@ -39,7 +41,7 @@ Full Write-Up: https://docs.google.com/document/d/1yn1Targ-Dk6yQF37FIEjGdPVRtqAJ
 
 HackTheBox (HTB)
 
-• Expressway
+  • Expressway
 
 Performed network scanning and enumeration using Nmap and ike-scan to identify exposed services and potential entry points.
 
@@ -47,7 +49,7 @@ Analyzed IKE-PSK authentication data and recovered credentials using Hashcat to 
 
 Identified and exploited a vulnerable sudo version (CVE-2025-32463) to escalate privileges and gain Root access.
 
-Flow:
+  Flow:
 
 Scanned the target using Nmap to identify open ports and running services.
 
@@ -63,7 +65,7 @@ Exploited CVE-2025-32463 to escalate privileges and gain Root access.
 
 Full Write-Up : https://docs.google.com/document/d/1jXPrSI-boRDCgJsS07p5tF0F5tLj7wXfynPjGZlh2Ms/edit?tab=t.0
 
-• Guardian
+  • Guardian
 
 Performed web application enumeration to identify exposed account information, default credentials, and insecure application functionality.
 
@@ -71,7 +73,7 @@ Analyzed application components and identified vulnerabilities that could be exp
 
 Chained multiple vulnerabilities to escalate access from a Student account to Lecturer and Admin access.
 
-Flow:
+  Flow:
 
 Scanned the target using Nmap to identify open ports and running services.
 
