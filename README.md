@@ -25,7 +25,7 @@ Analyzed the APK using JADX GUI.
 
 Identified potential security vulnerabilities.
 
-Analyzed the application’s DEX bytecode using MT Manager
+Analyzed the application’s DEX bytecode using MT Manager.
 
 Validated the identified weaknesses through controlled modifications.
 
