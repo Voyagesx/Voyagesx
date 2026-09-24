@@ -35,7 +35,7 @@ Validated the identified weaknesses through controlled modifications.
 
 Successfully modified Coins, Gems, and Paints, and bypassed in-game advertisements.
 
-Full Write-Up: https://docs.google.com/document/d/1yn1Targ-Dk6yQF37FIEjGdPVRtqAJp_OmJ8ShKHhyAw/edit?usp=sharing
+[Full Write-Up](https://docs.google.com/document/d/1yn1Targ-Dk6yQF37FIEjGdPVRtqAJp_OmJ8ShKHhyAw/edit?usp=sharing)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
