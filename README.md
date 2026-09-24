@@ -63,7 +63,7 @@ Identified a vulnerable sudo version during privilege escalation analysis.
 
 Exploited CVE-2025-32463 to escalate privileges and gain Root access.
 
-Full Write-Up: https://docs.google.com/document/d/1jXPrSI-boRDCgJsS07p5tF0F5tLj7wXfynPjGZlh2Ms/edit?tab=t.0
+[Full Write-Up](https://docs.google.com/document/d/1jXPrSI-boRDCgJsS07p5tF0F5tLj7wXfynPjGZlh2Ms/edit?tab=t.0)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ Exploited the file upload vulnerability to obtain a lecturer session.
 
 Analyzed lecturer functionality and chained the discovered weaknesses to gain Admin access.
 
-Full Write-Up: https://docs.google.com/document/d/1jXPrSI-boRDCgJsS07p5tF0F5tLj7wXfynPjGZlh2Ms/edit?tab=t.0
+[Full Write-Up](https://docs.google.com/document/d/1jXPrSI-boRDCgJsS07p5tF0F5tLj7wXfynPjGZlh2Ms/edit?tab=t.0)
 
 ## Programming & Data Structures
 
