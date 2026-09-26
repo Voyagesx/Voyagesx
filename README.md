@@ -94,6 +94,15 @@ Analyzed lecturer functionality and chained the discovered weaknesses to gain Ad
 
 [Full Write-Up](https://docs.google.com/document/d/1jXPrSI-boRDCgJsS07p5tF0F5tLj7wXfynPjGZlh2Ms/edit?tab=t.0)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UI Design
+
+  • Monex - Personal Finance Management App
+MoneX is a personal finance management application designed to help users track and manage their finances more effectively. The application features a Spending Limit that allows users to set personalized spending limits based on their financial needs. MoneX is also designed to integrate with users’ bank accounts for real-time balance and transaction tracking.
+
+[MoneX](https://www.figma.com/design/PaqWZqIYuEm9eKFQsrmcab/MoneX?node-id=0-1&t=yNyQgNOpLWQfvtQD-1)
+
 ## Programming & Data Structures
 
 Used Python with Biopython and Matplotlib to process, analyze, and visualize data.
