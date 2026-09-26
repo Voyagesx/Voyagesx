@@ -99,6 +99,7 @@ Analyzed lecturer functionality and chained the discovered weaknesses to gain Ad
 UI Design
 
   • Monex - Personal Finance Management App
+
 MoneX is a personal finance management application designed to help users track and manage their finances more effectively. The application features a Spending Limit that allows users to set personalized spending limits based on their financial needs. MoneX is also designed to integrate with users’ bank accounts for real-time balance and transaction tracking.
 
 [MoneX](https://www.figma.com/design/PaqWZqIYuEm9eKFQsrmcab/MoneX?node-id=0-1&t=yNyQgNOpLWQfvtQD-1)
