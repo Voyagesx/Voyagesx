@@ -10,7 +10,7 @@ Mobile Security: Mobile Penetration Testing, APK Analysis, Static Analysis, Vuln
 
 Reverse Engineering: APK Reverse Engineering.
 
-Programming Language: C/C++, Python.
+Programming Language: C/C++, Python, MySQL/MariaDB.
 ## Featured Project
 
 Mobile Application Penetration Testing
