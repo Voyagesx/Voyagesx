@@ -1,7 +1,19 @@
 # What is up internet👋🌐
 
-#👨‍💻About Me
+# About Me
 
-My project's here
+Undergraduate student in BINUS University🎓
 
--> https://kidonit.xyz/
+Always eager to learn, take on new challenges, and continuously improve technical skills and cybersecurity knowledge🚀
+
+On the lookout for an internship🔍
+
+# Socials
+
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30">](https://www.linkedin.com/in/rizky-darmawan-307780326/)
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30">](mailto:rizkydarmwn711@gmail.com)
+
+
+# Check out my projects🔗
+
+[Check out my projects ↗](https://kidonit.xyz/)
