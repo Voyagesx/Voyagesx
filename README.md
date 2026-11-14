@@ -1,5 +1,4 @@
 # What is up internet👋🌐
-
 # About Me
 
 Undergraduate student in BINUS University🎓
