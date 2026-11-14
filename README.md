@@ -13,6 +13,6 @@ On the lookout for an internship🔍
 [<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30">](mailto:rizkydarmwn711@gmail.com)
 
 
-# My projects is here🔗
+# My projects is here🔗🛡️
 
 [Check out my projects ↗](https://kidonit.xyz/)
