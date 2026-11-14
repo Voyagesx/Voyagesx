@@ -1,4 +1,6 @@
-# What is up internet, I'm Rizky
+# What is up internet👋🌐
+
+#👨‍💻About Me
 
 My project's here
 
