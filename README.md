@@ -4,7 +4,7 @@
 
 Undergraduate student in BINUS University🎓
 
-Always eager to learn, take on new challenges, and continuously improve technical skills and cybersecurity knowledge🚀
+Always eager to learn, take on new challenges, continuously improve technical skills and cybersecurity knowledge🚀
 
 On the lookout for an internship🔍
 
